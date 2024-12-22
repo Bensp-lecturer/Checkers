@@ -1,0 +1,8 @@
+a checkers board includes 8x8 rows and column cells,
+alternating black to white, 
+there are 2 players, black and white,
+white is the starting player, 
+
+you can only step diagonally 1 cell,
+if an enemy player is present you can hop over and eat him ( he his eliminated ),
+if a friendly player is present, no movement is approved
